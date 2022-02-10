@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x633674133a0aa165bbe71da1bd672dff09e8040f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x633674133a0aa165bbe71da1bd672dff09e8040f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "UGig",
+  "SYMBOL": "UG",
+  "MAX_SUPPLY": 60,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ugig-v4",
+  "SHOW_BACKGROUND": true
+}
